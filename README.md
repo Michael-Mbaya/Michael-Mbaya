@@ -20,9 +20,9 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <div align="center">
 <a href="https://github.com/Michael-Mbaya">
-<img align="center" alt="Michael-Mbaya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Michael-Mbaya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img alt="Michael-Mbaya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Michael-Mbaya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/Michael-Mbaya">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Michael-Mbaya&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Michael-Mbaya&layout=compact&theme=radical" />
 </a>
 </div>
 
