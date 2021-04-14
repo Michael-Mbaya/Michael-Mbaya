@@ -1,37 +1,25 @@
-### Hi there 👋
+<img src="" alt="Stop Sad Code"/>
 
-**Michael-Mbaya/Michael-Mbaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+# Hi there, 👋 I'm **Michael** a.k.a **Mbaya**
+### Welcome to my tech space. 
+### I'm an enthusiastic developer. I love programming and am currently looking for opportunities. Feel Free to contact me
 ---
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+- 💻 I’m currently learning **PHP**
+- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript/TypeScript based projects**
+- 🤔 I’m looking for help with **Design skills** 
+- 💬 Ask me about **anything i will try to help you if i can**
+- 📫 How to reach me: **Email [Michael-Mbaya](mailto:michaelmbaya1@gmail.com)**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **✨ I'm not that addicted to coffee☕, music and Long distracting walks and talks rejuvinate my mind.✨**
 
-<div align="center">
-<a href="https://github.com/Michael-Mbaya">
-<img alt="Michael-Mbaya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Michael-Mbaya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/Michael-Mbaya">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Michael-Mbaya&layout=compact&theme=radical" />
-</a>
-</div>
+---
+## My stats over here
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github_
 
-<!-- 
-<a href="https://github.com/Michael-Mbaya">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Michael-Mbaya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/sabesansathananthan">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Michael-Mbaya&layout=compact&theme=radical" />
-</a> 
--->
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.codestackr.vercel.app/api?username=Michael-Mbaya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="Michael-Mbaya Github Stats" />
+    <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=Michael-Mbaya&show_icons=true&locale=en&layout=compact&langs_count=8&hide_border=true&hide=c&theme=radical" alt="Michael-Mbaya Language Stats"/>
+</p>
 
 ---
