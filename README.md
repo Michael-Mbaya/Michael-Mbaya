@@ -1,4 +1,8 @@
-<img src="" alt="Stop Sad Code"/>
+<p align="center">
+<img width="80%" height="210em" src="./images/sad.stop.jpg" alt="Stop Sad Code"/>
+</p>
+
+<!-- ![image info](./images/sad.stop.jpg) -->
 
 # Hi there, 👋 I'm **Michael** a.k.a **Mbaya**
 ### Welcome to my tech space. 
