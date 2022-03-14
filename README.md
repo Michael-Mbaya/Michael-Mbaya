@@ -2,7 +2,7 @@
 <img width="80%" height="210em" src="./images/sad.stop.jpg" alt="Stop Sad Code"/>
 </p>
 
-# Hi there, 👋 I'm **Michael** a.k.a **Mbaya**
+# Hi there, 👋 I'm **Michael**
 ### Welcome to my tech space. I'm an enthusiastic developer. I love programming and am currently looking for opportunities. Feel Free to contact me.
 ---
 
